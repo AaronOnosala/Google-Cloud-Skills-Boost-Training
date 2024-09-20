@@ -1,6 +1,6 @@
 # Google-Cloud-Boosting-Training
 
-This repository contains [my google cloud training](https://www.cloudskillsboost.google/public_profiles/8d33a4cd-d0f3-44b3-81f5-1548b34eeef5) hands on experience in these path ways:
+This repository contains [my google cloud training](https://www.cloudskillsboost.google/public_profiles/8d33a4cd-d0f3-44b3-81f5-1548b34eeef5) hands on experience in these specific path ways:
 
 ## 1. Advanced: Generative AI for Developers Learning Path
 
