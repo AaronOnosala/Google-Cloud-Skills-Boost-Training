@@ -1,4 +1,4 @@
-# Google-Cloud-Boosting-Training
+# Google-Cloud-Skills-Boost-Training
 
 <img width="169" alt="Screenshot 2024-09-20 at 09 52 22" src="https://github.com/user-attachments/assets/d6b306ba-96c8-45aa-b972-53536cf6c102">
 
